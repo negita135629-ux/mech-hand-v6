@@ -87,4 +87,4 @@ If you improve the design or build your own version, I would be happy to see it.
 
 ## License
 
-See the LICENSE file for details.
+CC BY
