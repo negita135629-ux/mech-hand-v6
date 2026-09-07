@@ -52,7 +52,26 @@ Its mechanism has been simplified to improve reliability and ease of manufacturi
 
 Assembly video:
 
-[YouTube Video](YOUR_YOUTUBE_LINK)
+[YouTube Video]
+組み立て動画↓
+
+https://youtu.be/qzkEr0LQfiU
+
+https://youtu.be/XSJPnuex2js
+
+動作／メカニズム動画↓
+
+https://youtu.be/wdKK3u0CoiU
+
+https://youtu.be/mYgcsvKeigU
+
+https://youtube.com/shorts/7YCYWcchhKk
+
+https://youtube.com/shorts/f-g6F6FUTs4
+
+https://youtu.be/xJD88yebtpA
+
+https://youtu.be/xWxtCqlGCMU
 
 ## Notes
 
