@@ -2,6 +2,12 @@
 ![Mech Hand V6](Images/mech-hand-v6.jpg)
 A 3D-printable robotic hand designed with a simple, modular, and easy-to-modify mechanism.
 
+## 3D Model
+
+[View Mech Hand V6 in GitHub's 3D viewer](STL/mech%20hand%20v6.stl)
+
+[Download STEP file](STEP/mech%20hand%20v6_.step)
+
 Each finger has three joints and is driven by a single SG90 micro servo.
 The four main fingers can be controlled independently.
 
